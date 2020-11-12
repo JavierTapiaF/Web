@@ -1,2 +1,2 @@
 # Web
-Curso WE
+Curso Web
